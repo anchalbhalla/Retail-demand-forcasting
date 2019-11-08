@@ -21,6 +21,7 @@ A data science project focused on the retail industry. This projects demonstrate
 
 3. Do the following to prepare the dataset for modelling: 
    * Click on operation on the left - Select the Column "Item". Select Replace Substring and replace the strings with the following numbers TShirt - 1, Formal Shirts - 2, Jeans - 3 (We will only be working with 3 items for this lab) 
+   
    * Click on Date column > Convert Column > select date
    * Click on Item column  > Convert Column > select integer 
    * Click on Store column  > Convert Column > select integer 
