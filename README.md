@@ -20,7 +20,7 @@ A data science project focused on the retail industry. This projects demonstrate
 2. Let's move on to data preparation, for that click on Add project, and add data refinery flow. 
 
 3. Do the following to prepare the dataset for modelling: 
-   * Click on operation on the left - Select the Column "Item". Select Replace Substring and replace the strings with the following numbers TShirt - 1, Formal Shirts - 2, Jeans - 3 (We will only be working with 3 items for this lab) 
+   * Click on operation on the left - Select the Column "Item". Select Replace Substring and replace the strings with the following numbers TShirt - 1, Formal Shirts - 2, Jeans - 3, Formal Trousers - 4, Blazers - 5, Jackets - 6, Shoes - 7, Heels - 8, Scarves - 9, Hats - 10 (We will only be working with the first 3 items for this lab) 
    
    * Click on Date column > Convert Column > select date
    * Click on Item column  > Convert Column > select integer 
@@ -38,7 +38,7 @@ A data science project focused on the retail industry. This projects demonstrate
 3. Select the data source to be demand.csv 
 
 4. Select the item and sales attibutes and drag and drop them onto the canvas and you will get the following results: 
-
+![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/tree/master/images/dashboard.png)
 
 
 ## Modelling - SPSS 
@@ -52,7 +52,7 @@ A data science project focused on the retail industry. This projects demonstrate
 4. Run the flow 
 
 5. Save all the three time series model in the following manner: 
-
+![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/tree/master/images/saving-time-series.png)
 6. Go back to the project and will see all 3 models under Watson machine learning models. 
 
 7. Go to each one of them and deploy them by clicking on add service 
@@ -71,4 +71,4 @@ A data science project focused on the retail industry. This projects demonstrate
 4. Enter the ML instance id where specified and copy paste the scoring URLS in the three places as mentioned 
 
 5. You will get the following shiny app:
-
+![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/tree/master/images/app.png)
