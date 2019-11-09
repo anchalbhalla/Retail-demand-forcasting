@@ -45,7 +45,7 @@ A data science project focused on the retail industry. This projects demonstrate
 
 1. Click on Add project, and add modeler flows. 
 
-2. Enter a name for the SPSS flow > Click from file > Select the .str file 
+2. Enter a name for the SPSS flow > Click from file > Select the store1.str file 
 
 3. Replace the data input node if the flow gives an error while running and select the demand.csv_shaped.csv file
 
