@@ -71,4 +71,4 @@ A data science project focused on the retail industry. This projects demonstrate
 4. Enter the ML instance id where specified and copy paste the scoring URLS in the three places as mentioned 
 
 5. You will get the following shiny app:
-![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/tree/master/images/app.png)
+![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/blob/master/images/app.png)
