@@ -38,7 +38,7 @@ A data science project focused on the retail industry. This projects demonstrate
 3. Select the data source to be demand.csv 
 
 4. Select the item and sales attibutes and drag and drop them onto the canvas and you will get the following results: 
-![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/tree/master/images/dashboard.png)
+![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/blob/master/images/dashboard.png)
 
 
 ## Modelling - SPSS 
@@ -52,7 +52,7 @@ A data science project focused on the retail industry. This projects demonstrate
 4. Run the flow 
 
 5. Save all the three time series model in the following manner: 
-![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/tree/master/images/saving-time-series.png)
+![alt text](https://github.com/anchalbhalla/Retail-demand-forcasting/blob/master/images/saving-time-series.png)
 6. Go back to the project and will see all 3 models under Watson machine learning models. 
 
 7. Go to each one of them and deploy them by clicking on add service 
